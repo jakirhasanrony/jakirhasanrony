@@ -1,4 +1,5 @@
-![Transforming Ideas into Functional and Aesthetically Pleasing Web Applications](https://i.ibb.co/rv4FRtJ/Modern-Minimal-Technology-Background-Banner-1.png)
+![Modern Minimal Technology Background Banner (1)](https://github.com/jakirhasanrony/jakirhasanrony/assets/99494672/bc5ec196-1b60-45e7-a517-8ff0cbd4c5f2)
+
 
 <h1 align="left">Hi 👋, I'm Jakir Hasan Rony, junior MERN Stack Developer</h1>
 <h4 align="left">Proficient in HTML, CSS, Tailwind, DaisyUI, React, Firebase, and MongoDB. Passionate about crafting responsive and visually appealing web applications. Excels in front-end development using React for interactive interfaces and leverages Firebase for real-time database management and authentication. Proficient in MongoDB for efficient data storage. Committed to delivering innovative and user-centric solutions in mern-stack development.</h4>
