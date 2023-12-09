@@ -1,4 +1,4 @@
-![Modern Minimal Technology Background Banner (1)](https://github.com/jakirhasanrony/jakirhasanrony/assets/99494672/bc5ec196-1b60-45e7-a517-8ff0cbd4c5f2)
+![Modern Minimal Technology Background Banner (2)](https://github.com/jakirhasanrony/jakirhasanrony/assets/99494672/939c9105-cd1f-4156-8955-148f71f8b489)
 
 
 <h1 align="left">Hi 👋, I'm Jakir Hasan Rony, junior MERN Stack Developer</h1>
