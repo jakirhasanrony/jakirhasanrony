@@ -1,13 +1,16 @@
 ![Modern Minimal Technology Background Banner (2)](https://github.com/jakirhasanrony/jakirhasanrony/assets/99494672/939c9105-cd1f-4156-8955-148f71f8b489)
 
+#
+<h1 align="center">Hi 👋, I'm Jakir Hasan Rony, junior MERN Stack Developer</h1>
+<h4 align="center">Proficient in HTML, CSS, Tailwind, DaisyUI, React, Firebase, and MongoDB. Passionate about crafting responsive and visually appealing web applications. Excels in front-end development using React for interactive interfaces and leverages Firebase for real-time database management and authentication. Proficient in MongoDB for efficient data storage. Committed to delivering innovative and user-centric solutions in mern-stack development.</h4>
 
-<h1 align="left">Hi 👋, I'm Jakir Hasan Rony, junior MERN Stack Developer</h1>
-<h4 align="left">Proficient in HTML, CSS, Tailwind, DaisyUI, React, Firebase, and MongoDB. Passionate about crafting responsive and visually appealing web applications. Excels in front-end development using React for interactive interfaces and leverages Firebase for real-time database management and authentication. Proficient in MongoDB for efficient data storage. Committed to delivering innovative and user-centric solutions in mern-stack development.</h4>
 
 - 💬 Ask me about **html, Css, Tailwind, DaisyUI, Material UI, Bootstrap React, mongoDB**
 
 - 📫 How to reach me **jakir15-14584@diu.edu.bd**
 
+
+#
 # Coonect with me:
 <p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/jakir-hasan-rony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jakir-hasan-rony" height="30" width="40" /></a>
@@ -47,6 +50,11 @@ The web app simplifies exploration and management of products across six car bra
 The platform allows users to register either as service providers or help-seekers, with existing users accessing enhanced features upon login. Service listings are accessible for browsing and viewing details even without registration. Service providers can effortlessly add, manage, and update their services on the platform, including the ability to track and update booking statuses. Registered users can book services provided, while service providers can monitor bookings and update their status (e.g., pending, in progress, complete). Service providers have a dedicated dashboard to oversee their services, bookings, and manage the status of each service efficiently.
 
 ### For more details: https://github.com/jakirhasanrony/home-services-exchange-client/blob/main/README.md
+
+- ## 📊 Current Status of Profile:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakirhasanrony&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jakirhasanrony&theme=dark)        ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakirhasanrony&theme=dark)
 
 
 
