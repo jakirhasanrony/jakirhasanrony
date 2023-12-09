@@ -50,8 +50,8 @@ The web app simplifies exploration and management of products across six car bra
 The platform allows users to register either as service providers or help-seekers, with existing users accessing enhanced features upon login. Service listings are accessible for browsing and viewing details even without registration. Service providers can effortlessly add, manage, and update their services on the platform, including the ability to track and update booking statuses. Registered users can book services provided, while service providers can monitor bookings and update their status (e.g., pending, in progress, complete). Service providers have a dedicated dashboard to oversee their services, bookings, and manage the status of each service efficiently.
 
 ### For more details: https://github.com/jakirhasanrony/home-services-exchange-client/blob/main/README.md
-
-- ## 📊 Current Status of Profile:
+#
+# 📊 Current Status of Profile:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakirhasanrony&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jakirhasanrony&theme=dark)        ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakirhasanrony&theme=dark)
