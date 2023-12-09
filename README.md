@@ -23,4 +23,26 @@
 # github streak stats
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jakirhasanrony&theme=tokyonight" alt="GitHub Streak" /></a></p>
 
+# My pinned projects:  Projects Overview
+### Technology: HTML, CSS, Tailwind, DaisyUI, React, Firebase, MongoDB
+
+## Project-Tile: Tourist Guide
+### Website Live Link: https://final-effort-c524d.web.app/
+#### admin email:  effort22@gmail.com
+#### admin password: 123456Aa1@
+The website caters to three primary user roles: Tourists, Admins, and Tour Guides, each with distinct functionalities. Tourists can register, access a personalized dashboard, manage wishlists, make bookings, and update their profiles. Admins oversee user accounts, package management, site statistics via an admin dashboard, and content updates. Tour Guides have access to package details, enabling them to manage and modify their listed packages, while also accessing a dashboard displaying insights related to their offerings. These segmented features are designed to address the specific needs and access levels of each user role, ensuring a tailored experience for all interacting with the site.
+
+
+
+## Project-Tile: Luxurious Car 
+
+### Website Live Link: https://brand-car-client.web.app/
+The web app simplifies exploration and management of products across six car brands—like Lamborghini and Ferrari—via dedicated brand pages. Users effortlessly view, update, and add products to their carts. Navigation is brand-focused, allowing easy access to product lists with essential details and images. Product cards feature an "Update" option for editing, ensuring secure data handling. Detailed product pages showcase model specs and features. The "Add to Cart" function enables item selection, managed privately for each user, ensuring a personalized and secure shopping experience.
+
+## Project-Tile: Home Services Exchange
+### Website Live Link: https://home-services-exchange.web.app/
+
+The platform allows users to register either as service providers or help-seekers, with existing users accessing enhanced features upon login. Service listings are accessible for browsing and viewing details even without registration. Service providers can effortlessly add, manage, and update their services on the platform, including the ability to track and update booking statuses. Registered users can book services provided, while service providers can monitor bookings and update their status (e.g., pending, in progress, complete). Service providers have a dedicated dashboard to oversee their services, bookings, and manage the status of each service efficiently.
+
+
 
