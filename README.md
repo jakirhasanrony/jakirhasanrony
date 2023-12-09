@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jakir Hasan Rony, junior MERN Stack Developer</h1>
-<h5 align="left">Proficient in HTML, CSS, Tailwind, DaisyUI, React, Firebase, and MongoDB. Passionate about crafting responsive and visually appealing web applications. Excels in front-end development using React for interactive interfaces and leverages Firebase for real-time database management and authentication. Proficient in MongoDB for efficient data storage. Committed to delivering innovative and user-centric solutions in full-stack development.</h5>
+<h4 align="left">Proficient in HTML, CSS, Tailwind, DaisyUI, React, Firebase, and MongoDB. Passionate about crafting responsive and visually appealing web applications. Excels in front-end development using React for interactive interfaces and leverages Firebase for real-time database management and authentication. Proficient in MongoDB for efficient data storage. Committed to delivering innovative and user-centric solutions in mern-stack development.</h4>
 
-- 💬 Ask me about **html, Css, Tailwind, DaisyUI, React, mongoDB**
+- 💬 Ask me about **html, Css, Tailwind, DaisyUI, Material UI, Bootstrap React, mongoDB**
 
 - 📫 How to reach me **jakir15-14584@diu.edu.bd**
 
