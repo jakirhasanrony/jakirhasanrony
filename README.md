@@ -7,7 +7,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Jakir Hasan Rony, Software Engineer</h1>
-<h4 align="center">Proficient in HTML, CSS, Tailwind, DaisyUI, React, Firebase, and MongoDB. Passionate about crafting responsive and visually appealing web applications. Excels in front-end development using React for interactive interfaces and leverages Firebase for real-time database management and authentication. Proficient in MongoDB for efficient data storage. Committed to delivering innovative and user-centric solutions in mern-stack development.</h4>
+<h4 align="center">Aspiring Software Engineer with a strong foundation in computer science and a passion for developing 
+innovative and efficient solutions. Seeking opportunities to contribute to software development, web 
+applications, and problem-solving initiatives in a collaborative environment while expanding expertise in 
+emerging technologies. </h4>
 
 
  💬 Ask me about **html, Css, Tailwind, DaisyUI, Material UI, Bootstrap React, mongoDB**
