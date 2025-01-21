@@ -1,4 +1,4 @@
-![Modern Minimal Technology Background Banner (2)](https://github.com/jakirhasanrony/jakirhasanrony/assets/99494672/939c9105-cd1f-4156-8955-148f71f8b489)
+
 
 #
 
