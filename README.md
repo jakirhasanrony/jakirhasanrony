@@ -6,7 +6,7 @@
 <div align="center">
 
 
-<h1 align="center">Hi 👋, I'm Jakir Hasan Rony, junior MERN Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm Jakir Hasan Rony, Software Engineer</h1>
 <h4 align="center">Proficient in HTML, CSS, Tailwind, DaisyUI, React, Firebase, and MongoDB. Passionate about crafting responsive and visually appealing web applications. Excels in front-end development using React for interactive interfaces and leverages Firebase for real-time database management and authentication. Proficient in MongoDB for efficient data storage. Committed to delivering innovative and user-centric solutions in mern-stack development.</h4>
 
 
