@@ -27,7 +27,7 @@ emerging technologies. </h4>
 # Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/jakir-hasan-rony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jakir-hasan-rony" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ddx00001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ddx00001" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1DPzgJ3tR9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ddx00001" height="30" width="40" /></a>
 </p>
 
 
