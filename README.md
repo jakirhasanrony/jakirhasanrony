@@ -15,7 +15,7 @@ emerging technologies. </h4>
 
  💬 Ask me about **html, Css, Tailwind, DaisyUI, Material UI, Bootstrap React, mongoDB**
 
-  📫 How to reach me **jakir15-14584@diu.edu.bd**
+  📫 How to reach me **ddxconstant@gmail.com**
   
 </div>
 
